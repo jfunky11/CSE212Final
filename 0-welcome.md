@@ -12,4 +12,4 @@ for any questions or comments please contact me
 
 Jenson Smith, BYU Idaho, CSE 212, section 3
 
-smi20137@byui.edu
+jensonsm@byui.edu
