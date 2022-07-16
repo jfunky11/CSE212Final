@@ -1,3 +1,4 @@
+```python
 # Python program to check 
 # if two lists have at-least 
 # one element common
@@ -27,3 +28,5 @@ print(common_data(a, b))
 a = [1, 2, 3, 4, 5]
 b = [6, 7, 8, 9]
 print(common_data(a, b))
+```
+[Back to Set Page](2-topic.md)

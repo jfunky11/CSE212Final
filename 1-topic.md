@@ -4,6 +4,7 @@ Having a for loop by itself will give you the fastest load times, having 2 loops
 One for loop can be written as 0(n), two loops not intertwined can be written as 0(2n), and a loop within a loop can be written as 0(n^2)
 
 A stack is a linear data structure that stores items in a last in first out manner so that when a new element is added it will be the first gone. This is usually reffered to as push and pop.
+![guess_design](stack.png)
 The functions associated with stack are:
 
 * empty() – Returns whether the stack is empty

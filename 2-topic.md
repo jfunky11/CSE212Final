@@ -1,5 +1,6 @@
 # Set
 ### sets are just an unfiltered collection of data that has no duplicate elements. We are able to iterate through and mutate elements. The reason we use sets instead of lists is because they make it easier to find if an element is in a set of data
+![Back to Stack Page](Sets.png)
 
 below is an example of a set
 ```python

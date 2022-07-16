@@ -1,3 +1,4 @@
+```python
 # Definition: Binary tree node.
 class TreeNode(object):
     def __init__(self, x):
@@ -53,3 +54,5 @@ print(preOrder(root))
 result = delete_Node(root, 4)
 print("After deleting specified node:")
 print(preOrder(result))
+```
+[Back to Tree Page](3-topic.md)

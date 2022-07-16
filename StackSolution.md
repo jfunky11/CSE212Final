@@ -1,3 +1,4 @@
+```python
 def removeDuplicates(S):
     list_1 = []
     for i in S:
@@ -10,3 +11,5 @@ def removeDuplicates(S):
 # test case 
 S = "abbaca"
 print(removeDuplicates(S))
+```
+[Back to Stack Page](1-topic.md)

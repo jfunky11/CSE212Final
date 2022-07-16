@@ -5,6 +5,7 @@
 * Parent Node: The parent of any node is the node which references the current node
 * Child Node: Child nodes of a parent node are the nodes at which the parent node is pointing using the references
 * Edge: The reference through which a parent node is connected to a child node is called an edge
+![guess_design](tree.png)
 
 Each child node is referred to as left and right child according to their postition. We can get different parts of the data using code like the following
 
