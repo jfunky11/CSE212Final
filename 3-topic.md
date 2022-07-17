@@ -55,4 +55,4 @@ Note: Search for a node to remove. If the node is found, delete the node.
 
 You can check your solution here [solution](TreeSolution.md)
 
-[welcome](0-Welcome.md)
+[welcome](0-welcome.md)
