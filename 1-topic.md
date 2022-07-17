@@ -56,7 +56,7 @@ it returns true because there is nothing left in the stack and it is empty
 
 ### Create a function using stacks that will remove any duplicate letters in a word for example dad should return a
 
-you can check your solution here [solution](StackSolution.py)
+you can check your solution here [solution](StackSolution.md)
 
 
 [Back to Welcome Page](0-welcome.md)
