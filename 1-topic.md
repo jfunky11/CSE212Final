@@ -1,8 +1,10 @@
 # Stack
+## Big O Notation
 ### whenever you are using for loops it's important that you remember the big O notation. How you use for loops can determine how fast whatever you're programming loads. 
 Having a for loop by itself will give you the fastest load times, having 2 loops not withing each other will give you a slower time, and having a loop within a loop will give you the slowest time.
 One for loop can be written as 0(n), two loops not intertwined can be written as 0(2n), and a loop within a loop can be written as 0(n^2)
-
+![guess_design](BigO.jpg)
+## Stacks
 A stack is a linear data structure that stores items in a last in first out manner so that when a new element is added it will be the first gone. This is usually reffered to as push and pop.
 ![guess_design](stack.png)
 The functions associated with stack are:
