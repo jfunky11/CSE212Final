@@ -57,6 +57,6 @@ we'll get this outcome
 ## Problem
 
 ### Create a function to see if two sets have atleast one element in common, for example if two sets each contain the number 2 it should return true
-You can check your solution here [solution](Stacksolution.md)
+You can check your solution here [solution](StackSolution.md)
 
 [back to welcome page](0-Welcome.md)
